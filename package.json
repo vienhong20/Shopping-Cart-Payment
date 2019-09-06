@@ -1,0 +1,27 @@
+{
+  "name": "shopping-cart-payment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vienhong20/Shopping-Cart-Payment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vienhong20/Shopping-Cart-Payment/issues"
+  },
+  "homepage": "https://github.com/vienhong20/Shopping-Cart-Payment#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "stripe": "^7.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0"
+  }
+}
