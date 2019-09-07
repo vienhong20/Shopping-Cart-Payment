@@ -28,13 +28,13 @@
   "merch": [
     {
       "id": 5,
-      "name": "T-Shirt",
+      "name": "T-Shirt ",
       "price": 1999,
       "imgName": "Shirt.png"
     },
     {
       "id": 6,
-      "name": "Coffee Cup",
+      "name": "Cofee Cup",
       "price": 699,
       "imgName": "Cofee.png"
     }
