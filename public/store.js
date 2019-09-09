@@ -103,7 +103,7 @@ function addToCartClicked(event) {
   var title = shopItem.getElementsByClassName("shop-item-title")[0].innerText;
   var price = shopItem.getElementsByClassName("shop-item-price")[0].innerText;
   var imageSrc = shopItem.getElementsByClassName("shop-item-image")[0].src;
-  var id = shopItem.itemId;
+  var id = shopItem.dataset.itemId;
   addItemToCart(title, price, imageSrc, id);
   updateCartTotal();
 }
